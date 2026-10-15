@@ -1,0 +1,14 @@
+{
+  "name": "Epd7in5V2",
+  "version": "0.1.0",
+  "description": "SPI driver for the Waveshare 800x480 7.5-inch V2 e-paper panel",
+  "frameworks": [
+    "arduino"
+  ],
+  "platforms": [
+    "espressif32"
+  ],
+  "build": {
+    "srcDir": "src"
+  }
+}
